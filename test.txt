@@ -1,11 +1,2 @@
- Volume in drive G is New Volume
- Volume Serial Number is 28E1-7500
+hello tets file
 
- Directory of G:\JavaProject
-
-18-12-2021  21:20    <DIR>          .
-18-12-2021  21:20    <DIR>          ..
-18-12-2021  21:20               104 test
-18-12-2021  21:20                 0 test.txt
-               2 File(s)            104 bytes
-               2 Dir(s)  418,622,521,344 bytes free
